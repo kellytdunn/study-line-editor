@@ -150,13 +150,13 @@ Works in ArcGIS Pro (2to3 compatible)
 <tr>
 <td class="info">Start_Point_Pull</td>
 <td class="info" align="left">
-<span style="font-weight: bold">Dialog Reference</span><br /><DIV STYLE="text-align:Left;"><DIV><P><SPAN>Determines whether the line has a distance starting at the line start point is pulled back. </SPAN></P></DIV></DIV><p><span class="noContent">There is no python reference for this parameter.</span></p></td>
+<span style="font-weight: bold">Dialog Reference</span><br /><DIV STYLE="text-align:Left;"><DIV><P><SPAN>Determines whether the line starting at the line start point is pulled back. </SPAN></P></DIV></DIV><p><span class="noContent">There is no python reference for this parameter.</span></p></td>
 <td class="info" align="left">String</td>
 </tr>
 <tr>
 <td class="info">End_Point_Pull</td>
 <td class="info" align="left">
-<span style="font-weight: bold">Dialog Reference</span><br /><DIV STYLE="text-align:Left;"><DIV><P><SPAN>Determines whether the line has a distance ending at the line end point is pulled back. </SPAN></P></DIV></DIV><p><span class="noContent">There is no python reference for this parameter.</span></p></td>
+<span style="font-weight: bold">Dialog Reference</span><br /><DIV STYLE="text-align:Left;"><DIV><P><SPAN>Determines whether the line ending at the line end point is pulled back. </SPAN></P></DIV></DIV><p><span class="noContent">There is no python reference for this parameter.</span></p></td>
 <td class="info" align="left">Boolean</td>
 </tr>
 <tr>
